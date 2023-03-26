@@ -1,2 +1,2 @@
-# PremierProjet
+# Open Classroom Project
 OpenClassroom formation
